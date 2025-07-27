@@ -65,7 +65,7 @@ client.driver.execute('''users.insert(.
 - Keep the command strings exactly as ProtonDB expects (quotes, parentheses, etc.).
 - Close connection with client.close() after your operations to free resources.
 
-##📎 Credits
+## 9.📎Credits
 This Python client was built to interface with the original ProtonDB project.
 🧑‍💻 Original ProtonDB Server Repository: https://github.com/Kisetsu15/ProtonDB
 
