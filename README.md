@@ -1,9 +1,19 @@
-# ProtonDB Python Wrapper
+# 🧠 ProtonDB Python Wrapper
 
-This Python wrapper provides a simple interface to interact with ProtonDB, a custom TCP-based NoSQL database.  
-It wraps ProtonDB commands into Python method calls, allowing you to execute database, collection, document, user, and utility commands through a consistent API.
+[![PyPI version](https://img.shields.io/pypi/v/pyprotondb.svg)](https://pypi.org/project/pyprotondb/)
+
+A Python wrapper for interacting with **ProtonDB**, a custom TCP-based NoSQL database.  
+This package allows you to send ProtonDB commands over a TCP connection through a clean Python API.
 
 ---
+
+## 📦 Installation
+
+Install from PyPI using `pip`:
+
+```bash
+pip install pyprotondb
+
 
 ## Complete Command Reference
 
